@@ -1,0 +1,1 @@
+{"projects": ["Stargate"], "tokens": {}, "nets": {}, "lang": "en", "project_settings": {"Stargate": {"min_value": 0.0, "max_value": 0.0, "active": false}}, "project_delays": {"min": 0.0, "max": 0.0}, "wallet_delays": {"min": 0.0, "max": 0.0}}
